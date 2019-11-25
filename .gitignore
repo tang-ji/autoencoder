@@ -125,3 +125,4 @@ dmypy.json
 .pyre/
 *.jpg
 *.mp4
+*.avi
