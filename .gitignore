@@ -126,3 +126,5 @@ dmypy.json
 *.jpg
 *.mp4
 *.avi
+*.pkl
+*.pkl
